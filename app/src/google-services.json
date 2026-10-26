@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944016842498",
+    "project_id": "smartlockiot-9d384",
+    "storage_bucket": "smartlockiot-9d384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944016842498:android:e8681d5120333ca4a02c1b",
+        "android_client_info": {
+          "package_name": "com.example.smartlockiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXrmXMBWVlXHV2lV-eQAuscZlhXiYgNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

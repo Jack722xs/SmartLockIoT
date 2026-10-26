@@ -1,0 +1,3 @@
+-keep class com.example.smartlockiot.model.** { *; }
+-keepclassmembers class com.example.smartlockiot.model.** { *; }
+-keepattributes Signature, *Annotation*
